@@ -66,3 +66,9 @@
 		transform: translateY(-10px);
 	}
 }
+#hero a {
+	color: #444444;
+}
+#hero a:hover {
+	color: #3498db;
+}
