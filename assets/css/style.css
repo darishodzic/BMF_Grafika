@@ -926,7 +926,8 @@ section {
 		rgba(56, 64, 70, 0.08);
 }
 
-.portfolio-details .portfolio-info h3 {
+.portfolio-details .portfolio-info h3,
+.portfolio-details .portfolio-info img {
 	font-size: 22px;
 	font-weight: 700;
 	margin-bottom: 20px;
