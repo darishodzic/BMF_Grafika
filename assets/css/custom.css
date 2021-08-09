@@ -35,6 +35,10 @@ body {
 	border: 2px solid #3498db;
 }
 
+#btn-cenovnik {
+	min-width: 90%;
+	text-align: center;
+}
 #hero .btn-get-started:hover,
 .btn-get-started:hover {
 	background: #3498db;
@@ -126,4 +130,16 @@ body {
 	background-position: top;
 	background-repeat: no-repeat;
 	background-size: cover;
+}
+.portfolio-info {
+	justify-content: center;
+	align-items: center;
+}
+.portfolio
+	.portfolio-item
+	.portfolio-info
+	.usluge_card {
+	line-height: initial;
+	vertical-align: auto;
+	font-size: 20px;
 }
