@@ -148,3 +148,6 @@ body {
 	height: 100%;
 	max-width: none;
 }
+.footer-top .row {
+	justify-content: space-between;
+}
