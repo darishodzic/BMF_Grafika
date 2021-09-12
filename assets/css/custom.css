@@ -138,7 +138,7 @@ body {
 .portfolio
 	.portfolio-item
 	.portfolio-info
-	.usluge_card {
+	h4 {
 	line-height: initial;
 	vertical-align: auto;
 	font-size: 20px;
